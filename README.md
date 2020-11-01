@@ -23,7 +23,7 @@
 [![GitHub license](https://img.shields.io/github/license/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/home/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
 
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/)
+[![Site preview](/public/mv-social-image.png)](https://hashirshoaeb.github.io/)
 
 ## Table of Contents
 
@@ -127,9 +127,9 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 10. To change the thumbnail image:
 
     - Navigate to the "public" folder.  
-    - There you will see "social-image.png".  
+    - There you will see "mv-social-image.png".  
     - Delete it.   
-    - Take a screenshot of your version and rename it "social-image.png" and place it there.  
+    - Take a screenshot of your version and rename it "mv-social-image.png" and place it there.  
     
    Next time if you make changes, repeat from step 8.
 
