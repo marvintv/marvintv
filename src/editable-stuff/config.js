@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/marvintv.jpg"),
   imageSize: 375,
   message:
-    "My name is Marvin Vilasyack. I'm a driven self-starter, leader, and have a passion for building modern web applications. I have about 3 years of professional development experience. Currently, I am a full-time developer at U.S. Bank. ",
+    "My name is Marvin Vilaysack. I'm a driven self-starter, leader, and have a passion for building modern web applications. I have about 3 years of professional development experience. Currently, I am a full-time developer at U.S. Bank. ",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
