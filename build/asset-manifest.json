@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb42e19c.chunk.css",
+    "main.js": "/static/js/main.68337d55.chunk.js",
+    "main.js.map": "/static/js/main.68337d55.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.0fc7fb4d.chunk.js": "/static/js/2.0fc7fb4d.chunk.js",
+    "static/js/2.0fc7fb4d.chunk.js.map": "/static/js/2.0fc7fb4d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ed1ccd46b29f7b31db6308c3c336b3dc.js": "/precache-manifest.ed1ccd46b29f7b31db6308c3c336b3dc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.cb42e19c.chunk.css.map": "/static/css/main.cb42e19c.chunk.css.map",
+    "static/js/2.0fc7fb4d.chunk.js.LICENSE.txt": "/static/js/2.0fc7fb4d.chunk.js.LICENSE.txt",
+    "static/media/marvintv.jpg": "/static/media/marvintv.c8814e7b.jpg",
+    "static/media/resume.pdf": "/static/media/resume.5bce9ff0.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.0fc7fb4d.chunk.js",
+    "static/css/main.cb42e19c.chunk.css",
+    "static/js/main.68337d55.chunk.js"
+  ]
+}
