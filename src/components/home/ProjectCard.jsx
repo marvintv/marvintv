@@ -38,10 +38,11 @@ const ProjectCard = ({ value }) => {
 };
 
 const CardButtons = ({ svn_url }) => {
+  //https://codeload.github.com/marvintv/next-hulu-clone/zip/refs/heads/main
   return (
     <>
       <a
-        href={`${svn_url}/archive/master.zip`}
+        href={`${svn_url}/archive/refs/heads/main.zip`}
         className="btn btn-outline-secondary mr-3"
       >
         <i className="fab fa-github" /> Clone Project
