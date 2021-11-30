@@ -109,7 +109,7 @@ const getInTouch = {
   heading: "Let's Get in Touch",
   message:
     "If you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "marvinvilaysack@gmail.com",
+  email: "mtvilay@gmail.com",
 };
 
 // Blog SECTION
