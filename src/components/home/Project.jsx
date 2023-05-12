@@ -67,12 +67,13 @@ const Project = ({ heading, username, length, specfic }) => {
                   value={project}
                 />
               ))
-            : dummyProjectsArr.map((project, index) => (
+              : dummyProjectsArr.map((project, index) => (
                 <ProjectCard
                   key={`dummy-${index}`}
                   id={`dummy-${index}`}
                   value={project}
                 />
+              
               ))}
         </Row>
       </Container>
