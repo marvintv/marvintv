@@ -1,24 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb42e19c.chunk.css",
-    "main.js": "/static/js/main.9523bc7d.chunk.js",
-    "main.js.map": "/static/js/main.9523bc7d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
-    "static/js/2.0fc7fb4d.chunk.js": "/static/js/2.0fc7fb4d.chunk.js",
-    "static/js/2.0fc7fb4d.chunk.js.map": "/static/js/2.0fc7fb4d.chunk.js.map",
+    "main.css": "/static/css/main.cd623eae.css",
+    "main.js": "/static/js/main.89653ab2.js",
+    "static/media/marvintv.jpg": "/static/media/marvintv.b62dcd329927c02617fd.jpg",
+    "static/media/resume.pdf": "/static/media/resume.ed47960edda3d5f3520a.pdf",
     "index.html": "/index.html",
-    "precache-manifest.255ca77d53e633e759fec6ca88cdc611.js": "/precache-manifest.255ca77d53e633e759fec6ca88cdc611.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.cb42e19c.chunk.css.map": "/static/css/main.cb42e19c.chunk.css.map",
-    "static/js/2.0fc7fb4d.chunk.js.LICENSE.txt": "/static/js/2.0fc7fb4d.chunk.js.LICENSE.txt",
-    "static/media/marvintv.jpg": "/static/media/marvintv.c8814e7b.jpg",
-    "static/media/resume.pdf": "/static/media/resume.5bce9ff0.pdf"
+    "main.cd623eae.css.map": "/static/css/main.cd623eae.css.map",
+    "main.89653ab2.js.map": "/static/js/main.89653ab2.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.554504a0.js",
-    "static/js/2.0fc7fb4d.chunk.js",
-    "static/css/main.cb42e19c.chunk.css",
-    "static/js/main.9523bc7d.chunk.js"
+    "static/css/main.cd623eae.css",
+    "static/js/main.89653ab2.js"
   ]
 }
