@@ -17,4 +17,4 @@ I'm currently enhancing my developer workflow with Neovim, building custom confi
 
 ---
 
-*""Be water, my friend. Empty your mind, be formless, shapeless — like water. Now you put water in a cup, it becomes the cup; You put water into a bottle it becomes the bottle; You put it in a teapot it becomes the teapot. Now water can flow or it can crash. Be water, my friend." - Bruce Lee 🌊"* ❄️
+*""Be water, my friend. Empty your mind, be formless, shapeless — like water. - Bruce Lee 🌊"* ❄️
