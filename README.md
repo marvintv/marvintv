@@ -2,7 +2,7 @@
 
 
 
-Hey there! I'm a passionate engineer who loves solving problems. When I'm not staring at my terminal, you can find me on the slopes snowboarding or on the mats practicing jiu-jitsu. I believe the discipline and creativity from these hobbies directly translate to how I approach software development - always looking for that balance between technical expertise and practical solutions.
+Hey there! I'm anengineer who loves solving problems. When I'm not staring at my terminal, you can find me on the slopes snowboarding or on the mats practicing jiu-jitsu. I'm always on the lookout for developing efficiency. 
 
 ### Currently Working On 
 
