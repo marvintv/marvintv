@@ -6,12 +6,12 @@ Hey there! I'm anengineer who loves solving problems. When I'm not staring at my
 
 ### Currently Working On 
 
-I'm currently enhancing my developer workflow with Neovim, building custom configurations to streamline my coding process. Additionally, I'm working on:
+- Getting lost configuring my neovim settings.
+- Learn about DevOps pipelines and mocking services within my home server.
+- Data engineering practices and building out data engineering pipelines.
 
-- Building a home server and homelab environment 🖥️
-- Learning Kubernetes and setting up my own homelab for a simulated HA setup
 - You can read more about my journey and technical insights on my blog: [https://marvintv.github.io/posts/](https://marvintv.github.io/posts/) ✍️
-- Creating data engineering and ML pipelines to experiment with large datasets and real-time analytics 
+
 
 
 
