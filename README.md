@@ -2,7 +2,7 @@
 
 
 
-Hey there! I'm anengineer who loves solving problems. When I'm not staring at my terminal, you can find me on the slopes snowboarding or on the mats practicing jiu-jitsu. I'm always on the lookout for developing efficiency. 
+When I'm not staring at my terminal, you can find me on the slopes snowboarding or on the mats practicing jiu-jitsu. I'm always on the lookout for developing connections.
 
 ### Currently Working On 
 
@@ -13,8 +13,10 @@ Hey there! I'm anengineer who loves solving problems. When I'm not staring at my
 - You can read more about my journey and technical insights on my blog: [https://marvintv.github.io/posts/](https://marvintv.github.io/posts/) ✍️
 
 
-
-
+## my philosphy
+- be a good person 🤝
+- lead by example
+- make great things 
 ---
 
 *""Be water, my friend. Empty your mind, be formless, shapeless — like water. - Bruce Lee 🌊"* ❄️
