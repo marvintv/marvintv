@@ -6,12 +6,8 @@ When I'm not staring at my terminal, you can find me on the slopes snowboarding 
 
 ### Currently Working On 
 
-- Getting lost configuring my neovim settings.
-💨 Learning Go
-- Data engineering practices and building out data engineering pipelines.
-
-- You can read more about my journey and technical insights on my blog: [https://marvintv.github.io/posts/](https://marvintv.github.io/posts/) ✍️
-
+- configuring my new keyboard
+- building out my homelab 
 
 ## my philosphy
 - be a good person 🤝
