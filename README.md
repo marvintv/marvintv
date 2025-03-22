@@ -7,7 +7,8 @@ When I'm not staring at my terminal, you can find me on the slopes snowboarding 
 ### Currently Working On 
 
 - configuring my new keyboard
-- building out my homelab 
+- building out my homelab
+- researching AI agents and MCP servers
 
 ## my philosphy
 - be a good person 🤝
