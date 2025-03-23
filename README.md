@@ -12,8 +12,8 @@ When I'm not staring at my terminal, you can find me on the slopes snowboarding 
 
 ## my philosphy
 - be a good person 🤝
-- lead by example
-- make great things 
+- having fun, and trusting the process of life long learning.
+- make and do great things 💠
 ---
 
 *""Be water, my friend. Empty your mind, be formless, shapeless — like water. - Bruce Lee 🌊"* ❄️
