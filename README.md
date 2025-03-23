@@ -6,7 +6,7 @@ When I'm not staring at my terminal, you can find me on the slopes snowboarding 
 
 ### currently?
 - building out my homelab to learn devops pipelines
-- [K8s cluster homelab] (https://github.com/marvintv/k8s-lab) 
+- [K8s cluster homelab](https://github.com/marvintv/k8s-lab) 
 - researching AI agents and MCP servers
 
 ## my philosphy
